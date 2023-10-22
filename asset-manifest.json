@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShoesWala/static/css/main.442d849f.css",
+    "main.js": "/ShoesWala/static/js/main.74676da1.js",
+    "index.html": "/ShoesWala/index.html",
+    "main.442d849f.css.map": "/ShoesWala/static/css/main.442d849f.css.map",
+    "main.74676da1.js.map": "/ShoesWala/static/js/main.74676da1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.442d849f.css",
+    "static/js/main.74676da1.js"
+  ]
+}
