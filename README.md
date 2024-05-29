@@ -1,4 +1,4 @@
-# My Shoe Shopping Platform
+# ShoesWala
 
 Welcome to the Shoe Shopping Platform! This dynamic website is built using JavaScript and React, offering users a comprehensive platform for shoe shopping.
 
